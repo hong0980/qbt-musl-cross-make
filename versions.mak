@@ -1,5 +1,5 @@
 CONFIG_SUB_REV = 00b15927
-GCC_VER = 14.2.0
+GCC_VER = 
 BINUTILS_VER = with-gold-2.44
 MUSL_VER = git-c47ad25e
 GMP_VER = 6.3.0
