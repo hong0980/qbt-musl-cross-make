@@ -1,7 +1,7 @@
 CONFIG_SUB_REV = a2287c30
 GCC_VER = 15.2.0
 BINUTILS_VER = with-gold-2.44
-MUSL_VER = git-1b76ff07
+MUSL_VER = git-
 GMP_VER = 6.3.0
 MPC_VER = 1.3.1
 MPFR_VER = 4.2.2
